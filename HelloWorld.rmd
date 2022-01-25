@@ -1,0 +1,19 @@
+---
+title: "HelloWorld"
+author: "Tony Armstrong"
+date: "1/25/2022"
+output: html_document
+---
+
+## This is a markdown file
+
+This is an R Markdown document.
+
+## What is R Markdown
+
+Apparently, Markdown is a formatting syntax for authoring HTML, PDF, and MS Word documents. You can do cool stuff like integrate code and data too!
+
+```{r cars}
+summary(cars)
+```
+
